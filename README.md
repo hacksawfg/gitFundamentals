@@ -12,7 +12,7 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git remote](./commands/Remote.md)
 - [git push](./commands/Push.md)
 - [git pull](./commands/Pull.md)
-- [git statust](./commands/Status.md)
+- [git status](./commands/Status.md)
 - [git clone](./commands/Clone.md)
 
 ## External Resources
